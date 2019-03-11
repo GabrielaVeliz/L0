@@ -1,0 +1,22 @@
+    1  print(hola)
+    2  print("hola")
+    3  gurobi.sh
+    4  pwd
+    5  ls
+    6  cd Desktop/
+    7  git clone http://github.com/IIC2125/syllabus
+    8  pwd
+    9  ls
+   10  git clone http://github.com/IIC2115/syllabus
+   11  cd Desktop/
+   12  git clone https://github.com/GabrielaVeliz/L0
+   13  cd L0
+   14  git add *
+   15  git commit -m "Subir Lab0"
+   16  git push
+   17  git push
+   18  git add *
+   19  git commit -m "Subir lab"
+   20  git push
+   21  git pull
+   22  history
